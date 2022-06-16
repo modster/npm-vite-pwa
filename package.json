@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.9.9",
+    "vite-plugin-pwa": "^0.11.2"
+  },
+  "dependencies": {
+    "workbox-routing": "^6.2.4",
+    "workbox-strategies": "^6.2.4",
+    "workbox-recipes": "^6.2.4"
+  }
+}
